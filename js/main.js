@@ -49,26 +49,15 @@ $(function() {
         })
 
 
-        //Team carousel
+        //Equipo carousel
 
         $('#myCarousel-two').carousel({
-            interval: 4000, //changes the speed
+            interval: 7000, //changes the speed
             keyboard: false,
         })
 
-        //Clients carousel
-
-        $('#myCarousel-three').carousel({
-            interval: 4000, //changes the speed
-            keyboard: false,
-        })
-
-        //Testimonials carousel
-
-        $('#myCarousel-four').carousel({
-            interval: 8000, //changes the speed
-            keyboard: false,
-        })
+       
+        
 
         
 
@@ -176,12 +165,7 @@ $(function() {
 
     /* Footer reveal function*/
 
-    $('footer').footerReveal({
-        zIndex: -100,
-        shadow: true,
-        shadowOpacity: 0.6
-
-    });
+   
 
 
 
