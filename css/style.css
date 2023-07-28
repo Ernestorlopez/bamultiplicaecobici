@@ -9,6 +9,7 @@ body {
   font-family: "questrial", "Droid Serif";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  min-width: 368px;
 }
 
 .wrapper {
